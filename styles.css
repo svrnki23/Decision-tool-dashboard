@@ -57,34 +57,6 @@ body {
     flex-direction: column;
 }
 
-/* Bar Graph Card Specifics  */
-.bar-graph-card {
-    height: 375px; 
-    align-items: center; 
-    justify-content: center;
-}
-.bar-graph-card h3 {
-    font-size: 1.5rem; 
-    font-weight: 600;
-    margin-bottom: 24px; 
-}
-.bar-graph-visual {
-    display: flex;
-    align-items: flex-end;
-    height: 180px; 
-    width: 100%; 
-    max-width: 300px; 
-    padding: 0 16px;
-    justify-content: space-around; 
-}
-.bar {
-    background-color: #5897fb; 
-    width: 25%; 
-    margin: 0 8px; 
-    border-top-left-radius: 6px;
-    border-top-right-radius: 6px;
-}
-
 /* Result Card Styles */
 .result-card {
     background-color: #e6f7ff; 
